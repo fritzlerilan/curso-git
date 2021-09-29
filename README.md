@@ -66,3 +66,10 @@ Codigo en JavaScript
         x.innerHTML = str1;
     }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Maxi | Burgos | 12354677      |
+| Tomas | Thompson | 12312312   |
+

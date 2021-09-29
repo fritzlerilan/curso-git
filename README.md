@@ -36,3 +36,33 @@ Underline 2
 
 # Imagenes
 ![Logo Git](https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 20000],
+        "description": {"text": "...", "sensitive": false}
+    },
+    {
+        "title": "Oranges",
+        "count": [17500, null],
+        "description": {"text": "...", "sensitive": false}
+    }
+]
+```
+
+Codigo en JavaScript
+```Javascript
+    function ShowArray(){
+        var s = CreateArray();
+        let x = document.getElementById("p1");
+        let str1 = x.innerHTML;
+        let str = "<br/>Array Elements: ";
+        str += "<br/>" + s;
+        str1 += "<br/>" + str;
+        x.innerHTML = str1;
+    }
+```

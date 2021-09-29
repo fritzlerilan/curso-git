@@ -33,3 +33,6 @@ Underline 2
 - <a href="https://www.google.com/"> Esto es un link HTML</a>
 - [Esto es un link en MarkDown](http://www.google.com/)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Git](https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png)
